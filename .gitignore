@@ -8,3 +8,5 @@
 *.iml
 .idea
 app/proguard-rules.pro
+
+ignore.txt
